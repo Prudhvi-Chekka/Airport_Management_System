@@ -1,0 +1,14 @@
+.AirPlaneheader{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    font-weight: bold;
+}
+.AirPlanecell{
+    border: 1px solid black;
+    padding: 8px;
+}
+.AirPlaneAlign{
+    border-collapse: collapse;
+     width: fit-content ;
+}

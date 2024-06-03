@@ -1,0 +1,57 @@
+.planeheader{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    font-weight: bold;
+}
+.planecell{
+    border: 1px solid black;
+    padding: 8px;
+}
+.planeAlign{
+    border-collapse: collapse;
+     width: fit-content;
+}
+.align_table{
+    width:70%;
+    float: left;
+}
+.align_form{
+    width:30%;
+    float: right;
+}
+.labelAlign{
+    text-align: center;
+}
+.floatleft{
+    float: left;
+}
+.floatright{
+    float: right;
+}
+.labelAlign {
+    text-align: center;
+  }
+  
+  .form-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  .floatleft {
+    flex-basis: 150px; /* Adjust the width as needed */
+  }
+  
+  .floatright {
+    flex: 1;
+    padding: 5px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+.Align_label{
+    margin-bottom: 20px;
+}  

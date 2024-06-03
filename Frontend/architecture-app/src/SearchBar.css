@@ -1,0 +1,49 @@
+/* src/components/SearchBar.css */
+
+.search-bar-container {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    
+    border-radius: 4px;
+  }
+  
+  .search-icon-container {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+  }
+  
+  .search-bar-input {
+    flex: 1;
+    border: none;
+    padding: 8px 30px 8px 10px;
+    font-size: 16px;
+    outline: none;
+  }
+  
+  .search-bar-input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px #007bff;
+  }
+  .my-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    width:75px;
+    height: 35px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .my-button:hover {
+    background-color: #0056b3;
+  }
+
+
+  .my-button:active {
+    background-color: #00397a;
+  }
+  
+  

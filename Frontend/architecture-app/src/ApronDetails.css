@@ -1,0 +1,83 @@
+.apronheader{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    font-weight: bold;
+}
+.aproncell{
+    border: 1px solid black;
+    padding: 8px;
+}
+.apronAlign{
+    border-collapse: collapse;
+     width: fit-content ;
+}
+.align_table{
+    width:70%;
+    float: left;
+}
+.align_form{
+    width:30%;
+    float: right;
+}
+.labelAlign{
+    text-align: center;
+}
+.floatleft{
+    float: left;
+}
+.floatright{
+    float: right;
+}
+.labelAlign {
+    text-align: center;
+  }
+  
+  .form-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  .floatleft {
+    flex-basis: 150px; /* Adjust the width as needed */
+  }
+  
+  .floatright {
+    flex: 1;
+    padding: 5px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+.Align_label{
+    margin-bottom: 20px;
+}  
+.dropdown-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .dropdown-label {
+    margin-right: 10px;
+    font-size: 16px;
+  }
+  
+  .dropdown-select {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  .search-bar-input{
+    border: none;
+    padding: 8px 30px 8px 10px;
+    font-size: 16px;
+    outline: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    flex: none;
+  }
+  
